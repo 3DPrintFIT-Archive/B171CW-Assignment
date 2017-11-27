@@ -154,7 +154,6 @@ V repozitáři odevzdávejte:
 - Tiskové GCODE soubory
 - Profil pro slicovací program, který jste použili
 - Případné další potřebné soubory
-- Vyplnit dotazník, bude upřesněno
 
 Termín odevzdání na GitHub je TODO včetně (případně začátek
 vašeho zápočtového termínu, pokud se tento koná dřív), tisknout můžete i
