@@ -80,7 +80,7 @@ nepřesáhla opsanou kouli).
 
 Celkový pohled:
 
-![](assets/flake.png)
+![](assets/flake.gif)
 
 ### Vaše vločky
 
