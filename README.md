@@ -72,11 +72,15 @@ třeba dopočítat vzhledem k pevně zadaným vstupům:
 Jednotlivé pod-odnože jsou vytočené o úhel `ang` a rovnoměrně
 rozmístěné:
 
+![](assets/branch.png)
+
 Pokud je pod-odnož jen jedna, je rovně (vytočení o `ang` se nekoná).
 Její délka není `7x` z obrázku výše, ale méně (tak aby dosáhla na, ale
 nepřesáhla opsanou kouli).
 
 Celkový pohled:
+
+![](assets/flake.png)
 
 ### Vaše vločky
 
