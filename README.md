@@ -62,8 +62,12 @@ Na tomto obrázku je naznačeno, jak jednotlivé odnože vycházejí ze středu
 vločky směrem k opsané kouli (ta koule není součástí vločky, pouze
 rozměrová informace):
 
+![](assets/male.svg)
+
 A zde vidíte jednotlivé rozměry a tvar jedné odnože. Proměnná `x` je
 třeba dopočítat vzhledem k pevně zadaným vstupům:
+
+![](assets/velke.svg)
 
 Jednotlivé pod-odnože jsou vytočené o úhel `ang` a rovnoměrně
 rozmístěné:
