@@ -88,10 +88,12 @@ Každému z vás jsou přiděleny tři náhodně vygenerované multisety
 `branches`. Je na vás, který z nich si vyberete k tisku. Vločky se
 tisknou s ostatními argumenty nastavenými na výchozí hodnoty.
 
-`xxxxxxxx [3, 2, 5, 3, 3, 3, 3, 3, 4, 3, 3, 3] [3, 3, 2, 4, 4, 2, 3, 3, 3, 3, 3, 3, 2, 2, 3, 3] [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 3]`
-`yyyyyyyy [3, 4, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3] [3, 3, 3, 3, 3, 4, 4, 4, 3, 3, 3, 3, 2, 3, 4, 1] [3, 3, 2, 3, 4, 3, 3, 3, 3, 3, 3, 4, 3, 3, 3, 3, 3, 3]`
-`zzzzzzzz [3, 3, 3, 3, 3, 3, 4, 3, 3, 2, 3, 3] [3, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 2, 3, 5, 2, 2] [3, 2, 3, 3, 3, 3, 4, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3]`
-`...`
+```
+xxxxxxxx [3, 2, 5, 3, 3, 3, 3, 3, 4, 3, 3, 3] [3, 3, 2, 4, 4, 2, 3, 3, 3, 3, 3, 3, 2, 2, 3, 3] [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 3]
+yyyyyyyy [3, 4, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3] [3, 3, 3, 3, 3, 4, 4, 4, 3, 3, 3, 3, 2, 3, 4, 1] [3, 3, 2, 3, 4, 3, 3, 3, 3, 3, 3, 4, 3, 3, 3, 3, 3, 3]
+zzzzzzzz [3, 3, 3, 3, 3, 3, 4, 3, 3, 2, 3, 3] [3, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 2, 3, 5, 2, 2] [3, 2, 3, 3, 3, 3, 4, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3]
+...
+```
 
 ### Předzpracování
 
@@ -107,8 +109,8 @@ postup vysvětlit a to i několik týdnů po vykonání vašich změn).
 
 **Jak řezat STL soubory?** Jde to jistě i v OpenSCADu, ale to je zbytečně
 komplikované. Připravili jsme proto [krátký návod pro program
-MeshMixer](https://github.com/3DprintFIT/BI-3DT/blob/master/cs/meshmixer.md)
-- doporučují tři ze čtyř cvičících.
+MeshMixer](https://github.com/3DprintFIT/BI-3DT/blob/master/cs/meshmixer.md) -
+doporučují tři ze čtyř cvičících.
 
 **Nejde vám v Meshmixeru dobře alignovat?** Zkuste program
 [Cura](https://www.lulzbot.com/cura). Obsahuje funkci *Lay flat*.
@@ -145,14 +147,14 @@ repozitáři.
 
 V repozitáři odevzdávejte:
 
-  * scad soubor s modulem `flake` jeho deklarací/definicí
-  * scad soubor **volající** modul `flake` s vašimi vybranými daty (bez deklarace/definice modulu `flake`)
-  * STL soubor s vaší vločkou, tak jak byl vygenerován OpenSCADem
-  * Tiskové STL soubory
-  * Tiskové GCODE soubory
-  * Profil pro slicovací program, který jste použili
-  * Případné další potřebné soubory
-  * Vyplnit dotazník, bude upřesněno
+- scad soubor s modulem `flake` jeho deklarací/definicí
+- scad soubor **volající** modul `flake` s vašimi vybranými daty (bez deklarace/definice modulu `flake`)
+- STL soubor s vaší vločkou, tak jak byl vygenerován OpenSCADem
+- Tiskové STL soubory
+- Tiskové GCODE soubory
+- Profil pro slicovací program, který jste použili
+- Případné další potřebné soubory
+- Vyplnit dotazník, bude upřesněno
 
 Termín odevzdání na GitHub je TODO včetně (případně začátek
 vašeho zápočtového termínu, pokud se tento koná dřív), tisknout můžete i
