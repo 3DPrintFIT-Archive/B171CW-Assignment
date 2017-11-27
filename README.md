@@ -73,7 +73,7 @@ Jednotlivé pod-odnože jsou vytočené o úhel `ang` a rovnoměrně
 rozmístěné:
 
 Pokud je pod-odnož jen jedna, je rovně (vytočení o `ang` se nekoná).
-Její délka není `5x` z obrázku výše, ale méně (tak aby dosáhla na, ale
+Její délka není `7x` z obrázku výše, ale méně (tak aby dosáhla na, ale
 nepřesáhla opsanou kouli).
 
 Celkový pohled:
