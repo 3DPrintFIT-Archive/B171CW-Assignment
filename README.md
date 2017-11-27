@@ -1,6 +1,6 @@
 # Semestrální práce ZS 2017/2018
 
-**Toto je rozpracovaná verze zadání!**
+V případě dotazů založte [novou issue v tomto repozitáři](https://github.com/3DprintFIT/B171CW-Assignment/issues/new).
 
 ***Alternativní zadání práce:** Po dohodě s Mirem Hrončokem
 můžete místo této semestrální práce řešit issues [projektů
@@ -205,9 +205,9 @@ se samozřejmě o promarněný pokus nejedná.
 ## Odevzdání, hodnocení a termíny
 
 Odevzdává se na GitHub, [založte si repozitář tímto
-odkazem](https://classroom.github.com/...).
+odkazem](https://classroom.github.com/a/CSWCpIQT).
 Veškeré slovní popisy uveďte přímo do README (či README.md apod.) v
-repozitáři.
+repozitáři. **Tentokrát nečekejte žádnou automatickou issue.**
 
 V repozitáři odevzdávejte:
 
@@ -219,7 +219,7 @@ V repozitáři odevzdávejte:
 - Profil pro slicovací program, který jste použili
 - Případné další potřebné soubory
 
-Termín odevzdání na GitHub je TODO včetně (případně začátek
+Termín odevzdání na GitHub je 14.1.2018 včetně (případně začátek
 vašeho zápočtového termínu, pokud se tento koná dřív), tisknout můžete i
 potom. Možnost pozdního odevzdání: Za každý další započatý týden (byť o
 vteřinu) je z celkového hodnocení strženo 10 bodů. Pokud je celkový
