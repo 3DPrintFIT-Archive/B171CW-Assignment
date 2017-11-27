@@ -172,7 +172,7 @@ Hodnocení dle následující tabulky:
 | Část | body | poznámka |
 |------|------|----------|
 | **Moduly pro OpenSCAD:** | **10** | |
-| Modul ''flake'' funguje podle zadání | 7 | povinný v rámci části |
+| Modul `flake` funguje podle zadání | 7 | povinný v rámci části |
 | Zdrojový kód je vhodně členěn a komentován | 3 | |
 | **Příprava na tisk:** | **10** | |
 | Vhodně připravená tisková STLka | 5 | povinný v rámci části |
